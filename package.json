@@ -1,0 +1,38 @@
+{
+  "name": "@sglara/cn",
+  "version": "0.1.0",
+  "description": "A utility that combines clsx and tailwind-merge.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "clsx": "^1.2.1",
+    "tailwind-merge": "^1.12.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "@types/node": "^20.5.9"
+  },
+  "keywords": [
+    "clsx",
+    "tailwind-merge",
+    "tailwind",
+    "class-names"
+  ],
+  "author": "Steven Lara",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "require": "./dist/index.js"
+    }
+  }
+}
