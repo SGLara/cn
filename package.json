@@ -1,6 +1,6 @@
 {
   "name": "@sglara/cn",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A utility that combines clsx and tailwind-merge.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
