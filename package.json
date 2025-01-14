@@ -1,6 +1,6 @@
 {
   "name": "@sglara/cn",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "description": "A utility function that combines the power of `clsx` and `tailwind-merge` for seamless management of Tailwind CSS class names.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
