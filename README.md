@@ -18,6 +18,10 @@ Install the package via npm:
 
 ```bash
 npm install @sglara/cn
+# or
+yarn add @sglara/cn
+# or
+pnpm add @sglara/cn
 ```
 
 ## Usage
